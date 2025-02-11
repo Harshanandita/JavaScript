@@ -79,5 +79,3 @@ I welcome contributions from the community to make this repository better! If yo
 
 ## License
 This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT). Feel free to use, modify, and distribute these projects as per the terms of the license.
-
----
